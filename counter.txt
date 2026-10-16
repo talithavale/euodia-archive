@@ -1,0 +1,22 @@
+/*
+  EOUDIA ARCHIVE - Stainless Steel Jewelry Website
+
+  Folder structure (inside the XAMPP htdocs folder):
+
+  htdocs/
+  └── mywebsite/
+      ├── index_eoudiaarchives.php   <- this file (PHP + HTML + CSS)
+      ├── counter.txt                <- created automatically (page view counter)
+      └── images/
+          ├── ea-001.jpg
+          ├─
+          ├── ea-004.jpg
+          ├── ea-005.jpg
+          ├── ea-006.jpg
+          ├── ea-007.jpg
+          
+          └── ea-009.jpg
+
+  Run it: start Apache in XAMPP, then open
+  http://localhost/mywebsite/index_eoudiaarchives.php
+*/
